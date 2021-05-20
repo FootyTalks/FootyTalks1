@@ -1,0 +1,7 @@
+body {background:linear-gradient(to bottom, #ffcc99 0%, #ffffcc 100%);}
+h1   {color:blue;}
+p   {color:darkgreen;}
+ul   {color:green;}
+ol   {color:darkblue;}
+table,tr,th {border:2px solid;}
+table {width:100%;}
